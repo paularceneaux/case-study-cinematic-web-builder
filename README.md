@@ -68,7 +68,7 @@ The deploy gate is what keeps anything half-finished from ever going public. A p
 
 This is the difference between "an AI made a website" and "a system produced a site you'd actually put your business behind." The leverage isn't just generating markup fast — it's the discipline wrapped around it: a real stack, a non-negotiable quality check at the sizes people actually use, and a human in command of the moment it goes live.
 
-**Snap2Flow** builds enterprise-grade automation and AI systems for small and mid-sized businesses. → [snap2flow.com](https://snap2flow.com) · [LinkedIn](https://www.linkedin.com/in/paularceneaux)
+**Snap2Flow** builds enterprise-grade automation and AI systems for small and mid-sized businesses. → [snap2flow.com](https://snap2flow.com) · [LinkedIn](https://www.linkedin.com/in/paularceneauxofficial/)
 
 ---
 
